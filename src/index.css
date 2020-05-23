@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background: rgba(252,236,252,1);
+background: -moz-linear-gradient(left, rgba(252,236,252,1) 0%, rgb(241, 86, 190) 36%, rgba(251,166,225,1) 75%, rgba(255,124,216,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgb(233, 103, 233)), color-stop(36%, rgba(253,137,215,1)), color-stop(75%, rgba(251,166,225,1)), color-stop(100%, rgba(255,124,216,1)));
+background: -webkit-linear-gradient(left, rgb(224, 201, 224) 0%, rgb(221, 70, 171) 36%, rgba(251,166,225,1) 75%, rgba(255,124,216,1) 100%);
+background: -o-linear-gradient(left, rgba(252,236,252,1) 0%, rgba(253,137,215,1) 36%, rgba(251,166,225,1) 75%, rgba(255,124,216,1) 100%);
+background: -ms-linear-gradient(left, rgba(252,236,252,1) 0%, rgba(253,137,215,1) 36%, rgba(251,166,225,1) 75%, rgba(255,124,216,1) 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
